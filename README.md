@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halithmm&label=Profile%20views&color=0e75b6&style=flat" alt="halithmm" /> </p>
 
-- 🌱 I’m currently learning **D-jango**
-
 - 👨‍💻 All of my projects are available at [https://halithmm.github.io](https://halithmm.github.io)
 
 - 📫 How to reach me **mohamedhalith881@gmail.com**
