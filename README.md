@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **mohamedhalith881@gmail.com**
 
-- 📄 Know about my experiences[ [https://www.canva.com/design/DAGH0TDqfyA/lo4v5nb67IU4_-TytMBRQA/view?utm_content=DAGH0TDqfyA&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGH0TDqfyA/lo4v5nb67IU4_-TytMBRQA/view?utm_content=DAGH0TDqfyA&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://www.canva.com/design/DAGmZqO9exs/pFuTiOO9uWqbVB0Kw0kH7Q/edit?utm_content=DAGmZqO9exs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-halith-m-771904260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-halith-m-771904260" height="30" width="40" /></a>
